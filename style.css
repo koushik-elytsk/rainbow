@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+div{
+    width:100vw;
+    height:14.28vh;
+    background-color: white;
+}
+
+#red:hover{
+    background-color: #ff0000;
+}
+
+#orange:hover{
+    background-color:#ffa500;
+}
+
+#yellow:hover{
+    background-color: #ffff00;
+}
+
+#green:hover{
+    background-color: #008000;
+}
+
+#blue:hover{
+    background-color: #0000ff;
+}
+
+#indigo:hover{
+    background-color: #4b0082;
+}
+
+#violet:hover{
+    background-color: #ee82ee;
+}
